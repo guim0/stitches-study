@@ -8,4 +8,4 @@ This lib is pretty lightweight, but i think it works well with big projects, you
 
 > Vercel Deployment
 
-[Soon]()
+[Vercel Deployed](https://stitches-study.vercel.app/)
