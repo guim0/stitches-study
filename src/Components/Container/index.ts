@@ -1,7 +1,7 @@
 import { styled } from "../../stitches.config";
 export const Container = styled("section", {
   width: "100vw",
-  height: "125vh",
+  height: "100vh",
   padding: "2rem 2rem",
   textAlign: "center",
 
@@ -23,6 +23,7 @@ export const Container = styled("section", {
     },
   },
   "@sm": {
+    height: "160vh",
     backgroundColor: "#219ebc",
     "> h1": {
       color: "black",
